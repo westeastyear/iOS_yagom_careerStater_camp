@@ -3,3 +3,4 @@
 |날짜|내용|
 |:---:|:---:|
 |[22/2/7](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:7_TIL.md)|Day 1 활동세션기록, 상호코드리뷰|
+|[22/2/8](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:8_TIL.md)|Day 2 보기좋은 README, Git, Github, Flow Chart|
