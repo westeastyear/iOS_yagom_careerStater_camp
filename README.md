@@ -9,3 +9,4 @@
 |[22/2/14](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:14_TIL.md)|타입, 인스턴스, 메서드, 프로퍼티, 일반화, 추상화, 은닉화, 캡슐화|
 |[22/2/15](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:15_TIL.md)|오늘의 기록, 학습내용|
 |[22/2/17](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:17_TIL.md)|H.I.G, 오늘의 기록|
+|[22/2/18](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:18_TIL.md)|H.I.G(Controls), MVC, 도미닉 git flow 세션|
