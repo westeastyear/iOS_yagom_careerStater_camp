@@ -10,4 +10,4 @@
 |[22/2/15](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:15_TIL.md)|오늘의 기록, 학습내용|
 |[22/2/17](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:17_TIL.md)|H.I.G, 오늘의 기록|
 |[22/2/18](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:18_TIL.md)|H.I.G(Controls), MVC, 도미닉 git flow 세션|
-|[22/2/22](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:22_TIL.md)|Properties, Method, Structure&Classes|
+|[22/2/21](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:22_TIL.md)|Properties, Method, Structure&Classes|
