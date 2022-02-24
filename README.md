@@ -12,3 +12,4 @@
 |[22/2/18](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:18_TIL.md)|H.I.G(Controls), MVC, 도미닉 git flow 세션|
 |[22/2/21](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:21_TIL.md)|Properties, Method, Structure&Classes|
 |[22/2/22](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:22_TIL.md)|Initialization|
+|[22/2/24](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:24_TIL.md)|활동세션 기록|
