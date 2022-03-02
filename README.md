@@ -15,3 +15,4 @@
 |[22/2/24](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:24_TIL.md)|활동세션 기록|
 |[22/2/25](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:25_TIL.md)|Step2 코딩, LLDB|
 |[22/2/28](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:28_TIL.md)|Singleton|
+|[22/3/1](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:1_TIL.md)|View Life Cycle|
