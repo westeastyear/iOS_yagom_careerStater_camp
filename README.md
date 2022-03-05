@@ -17,4 +17,4 @@
 |[22/2/28](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:28_TIL.md)|Singleton|
 |[22/3/1](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:1_TIL.md)|View Life Cycle|
 |[22/3/3](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:3_TIL.md)|활동세션, UIViewController, Homework|
-|[22/3/4](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:4_TIL.md)|Protocol - 1]|
+|[22/3/4](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:4_TIL.md)|Protocol - 1|
