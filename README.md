@@ -22,3 +22,4 @@
 |[22/3/8](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:8_TIL.md)|Builder Pattern|
 |[22/3/10](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:10_TIL.md)|UML, Class Diagram, Usecase Diagram|
 |[22/3/11](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:11_TIL.md)|Unit Test|
+|[22/3/14](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:14_TIL.md)|Unit Test, 활동세션, List|
