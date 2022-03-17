@@ -24,3 +24,4 @@
 |[22/3/11](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:11_TIL.md)|Unit Test|
 |[22/3/14](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:14_TIL.md)|Unit Test, 활동세션, List|
 |[22/3/15](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:15_TIL.md)|Array & List|
+|[22/3/17](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:17_TIL.md)|S.O.L.I.D|
