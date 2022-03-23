@@ -27,3 +27,4 @@
 |[22/3/17](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:17_TIL.md)|S.O.L.I.D|
 |[22/3/18](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:18_TIL.md)|Closure|
 |[22/3/21](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:21_TIL.md)|LLDB 활동세션|
+|[22/3/22](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:22_TIL.md)|else 지양하기|
