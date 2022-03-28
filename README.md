@@ -29,3 +29,5 @@
 |[22/3/21](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:21_TIL.md)|LLDB 활동세션|
 |[22/3/22](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:22_TIL.md)|else 지양하기|
 |[22/3/24](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:24_TIL.md)|LLDB|
+|[22/3/25](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:25_TIL.md)|Functional programming|
+|[22/3/28](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:28_TIL.md)|메모리 구조, ARC|
