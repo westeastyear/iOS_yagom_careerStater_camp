@@ -31,3 +31,4 @@
 |[22/3/24](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:24_TIL.md)|LLDB|
 |[22/3/25](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:25_TIL.md)|Functional programming|
 |[22/3/28](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:28_TIL.md)|메모리 구조, ARC|
+|[22/3/29](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:29_TIL.md)|iOS App Life Cycle|
