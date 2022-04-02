@@ -33,3 +33,4 @@
 |[22/3/28](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:28_TIL.md)|메모리 구조, ARC|
 |[22/3/29](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:29_TIL.md)|iOS App Life Cycle|
 |[22/3/31](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:3:31_TIL.md)|야곰 曰, WWDC2019 - Architecting Your App for Multiple Windows|
+|[22/4/1](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:1_TIL.md)|second ARC|
