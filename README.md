@@ -7,6 +7,14 @@
 |3|[쥬스 메이커](https://github.com/yagom-academy/ios-juice-maker/tree/5_donnie)|3주|[@쿼카](https://github.com/Quokkaaa)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/187)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/199)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/212)|[@개굴](https://github.com/yoo-kie)|
 |4|[계산기 I](https://github.com/westeastyear/ios-calculator-app/tree/STEP3)|2주|-|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/175)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/195)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/211)|[@도미닉](https://github.com/AppleCEO)|
 |5|[계산기 II](https://github.com/yagom-academy/ios-calculator-app/tree/ic_5_donnie)|1주|[@Malrang](https://github.com/malrang-malrang)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/220)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/229)|-|[@도미닉](https://github.com/AppleCEO)|
+|6|[만국박람회_링크연결예정]()|2주|[@Grumpy](https://github.com/grumpy-sw)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/139)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/151)|[진행중]()|[@Steven](https://github.com/stevenkim18)|
+
+---
+
+## 리뷰어 활동 for 6th
+|No.|Project|기간|리뷰이|STEP1|STEP2|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|숫자 야구게임|1주|[@seohyeon2](https://github.com/seohyeon2) [@iilim](https://github.com/iilim)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/101)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/110)|
 
 ---
 
