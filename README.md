@@ -56,3 +56,5 @@
 |[22/4/12](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:12_TIL.md)|TableView, UITableView|
 |[22/4/14](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:14_TIL.md)|Working with Scroll Views|
 |[22/4/15](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:15_TIL.md)|Typography|
+|[22/4/18](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:18_TIL.md)|Dynamic Type|
+|[22/4/19](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:19_TIL.md)|VoiceOver|
