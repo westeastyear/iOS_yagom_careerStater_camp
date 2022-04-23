@@ -11,14 +11,14 @@
 
 ---
 
-## 리뷰어 활동 for 6th
+## 🧑🏻‍🏫 리뷰어 활동 for 6th
 |No.|Project|기간|리뷰이|STEP1|STEP2|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|숫자 야구게임|1주|[@seohyeon2](https://github.com/seohyeon2) [@iilim](https://github.com/iilim)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/101)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/110)|
 |2|묵찌빠 게임|1주|[@웡빙](https://github.com/wongbingg) [@나이든별](https://github.com/radiantchoi) [@Judy](https://github.com/Judy-999)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/130)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/140)|
 ---
 
-## TIL (Today I Learned)
+## 🗓 TIL (Today I Learned)
 |날짜|내용|
 |:---:|:---:|
 |[22/2/7](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:2:7_TIL.md)|활동세션기록, 상호코드리뷰|
