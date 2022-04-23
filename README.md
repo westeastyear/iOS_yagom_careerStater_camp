@@ -15,7 +15,7 @@
 |No.|Project|기간|리뷰이|STEP1|STEP2|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1|숫자 야구게임|1주|[@seohyeon2](https://github.com/seohyeon2) [@iilim](https://github.com/iilim)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/101)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/110)|
-|1|묵찌빠 게임|1주|[@웡빙](https://github.com/wongbingg) [@나이든별](https://github.com/radiantchoi) [@Judy](https://github.com/Judy-999)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/130)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/140)|
+|2|묵찌빠 게임|1주|[@웡빙](https://github.com/wongbingg) [@나이든별](https://github.com/radiantchoi) [@Judy](https://github.com/Judy-999)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/130)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/140)|
 ---
 
 ## TIL (Today I Learned)
