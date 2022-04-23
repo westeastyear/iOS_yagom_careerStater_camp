@@ -59,3 +59,4 @@
 |[22/4/18](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:18_TIL.md)|Dynamic Type|
 |[22/4/19](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:19_TIL.md)|VoiceOver|
 |[22/4/21](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:21_TIL.md)|Concurrency Programming|
+|[22/4/22](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:22_TIL.md)|Grand Central Dispatch|
