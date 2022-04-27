@@ -62,4 +62,4 @@
 |[22/4/21](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:21_TIL.md)|Concurrency Programming|
 |[22/4/22](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:22_TIL.md)|Grand Central Dispatch|
 |[22/4/25](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:25_TIL.md)|G.C.D 심화 - 1|
-|[22/4/25](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:26_TIL.md)|G.C.D 심화 - 2|
+|[22/4/26](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:26_TIL.md)|G.C.D 심화 - 2|
