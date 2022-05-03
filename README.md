@@ -1,14 +1,14 @@
 # ⛺ iOS️ 야곰 커리어 스타터캠프 5th (2/7 ~ 진행중)
 
-|No.|Project|기간|팀원|STEP1|STEP2|STEP3|리뷰어|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|[숫자 야구게임](https://github.com/yagom-academy/ios-number-baseball/tree/5_donnie)|1주|[@Cathy](https://github.com/cathy171) [@TaeAngel](https://github.com/Taeangel)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/82)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/92)|-|[@Yeha](https://github.com/ye-ha)|
-|2|[묵찌빠 게임](https://github.com/westeastyear/ios-rock-paper-scissors)|1주|[@Tiana](https://github.com/Kim-TaeHyun-A)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/111)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/121)|-|[@숲재](https://github.com/forestjae)|
-|3|[쥬스 메이커](https://github.com/yagom-academy/ios-juice-maker/tree/5_donnie)|3주|[@쿼카](https://github.com/Quokkaaa)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/187)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/199)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/212)|[@개굴](https://github.com/yoo-kie)|
-|4|[계산기 I](https://github.com/westeastyear/ios-calculator-app/tree/STEP3)|2주|-|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/175)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/195)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/211)|[@도미닉](https://github.com/AppleCEO)|
-|5|[계산기 II](https://github.com/westeastyear/ios-calculator-app-team)|1주|[@Malrang](https://github.com/malrang-malrang)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/220)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/229)|-|[@도미닉](https://github.com/AppleCEO)|
-|6|[만국박람회](https://github.com/westeastyear/ios-exposition-universelle)|2주|[@Grumpy](https://github.com/grumpy-sw)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/139)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/151)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/163)|[@Steven](https://github.com/stevenkim18)|
-|7|[은행 창구 매니저](https://github.com/westeastyear/ios-bank-manager)|2주|[@Safari](https://github.com/saafaaari)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/148)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/157)|[PR예정]()|[@린생](https://github.com/jungseungyeo)|
+|No.|Project|기간|팀원|STEP1|STEP2|STEP3|STEP4|STEP5|리뷰어|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|1|[숫자 야구게임](https://github.com/yagom-academy/ios-number-baseball/tree/5_donnie)|1주|[@Cathy](https://github.com/cathy171) [@TaeAngel](https://github.com/Taeangel)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/82)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/92)|-||-||-|[@Yeha](https://github.com/ye-ha)|
+|2|[묵찌빠 게임](https://github.com/westeastyear/ios-rock-paper-scissors)|1주|[@Tiana](https://github.com/Kim-TaeHyun-A)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/111)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/121)|-||-||-|[@숲재](https://github.com/forestjae)|
+|3|[쥬스 메이커](https://github.com/yagom-academy/ios-juice-maker/tree/5_donnie)|3주|[@쿼카](https://github.com/Quokkaaa)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/187)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/199)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/212)|-||-|[@개굴](https://github.com/yoo-kie)|
+|4|[계산기 I](https://github.com/westeastyear/ios-calculator-app/tree/STEP3)|2주|-|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/175)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/195)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/211)|-||-|[@도미닉](https://github.com/AppleCEO)|
+|5|[계산기 II](https://github.com/westeastyear/ios-calculator-app-team)|1주|[@Malrang](https://github.com/malrang-malrang)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/220)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/229)|-|-||-|[@도미닉](https://github.com/AppleCEO)|
+|6|[만국박람회](https://github.com/westeastyear/ios-exposition-universelle)|2주|[@Grumpy](https://github.com/grumpy-sw)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/139)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/151)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/163)|-||-|[@Steven](https://github.com/stevenkim18)|
+|7|[은행 창구 매니저](https://github.com/westeastyear/ios-bank-manager)|2주|[@Safari](https://github.com/saafaaari)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/148)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/157)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/165)|[PR예정]||-|[@린생](https://github.com/jungseungyeo)|
 
 ---
 
@@ -64,3 +64,5 @@
 |[22/4/25](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:25_TIL.md)|G.C.D 심화 - 1|
 |[22/4/26](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:26_TIL.md)|G.C.D 심화 - 2|
 |[22/4/28](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:28_TIL.md)|Protocol-Oriented Programming|
+|[22/4/29]()|텅텅텅|
+|[22/5/2](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:2_TIL.md)|HTTP|
