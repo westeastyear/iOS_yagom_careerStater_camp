@@ -63,5 +63,5 @@
 |[22/4/25](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:25_TIL.md)|G.C.D 심화 - 1|
 |[22/4/26](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:26_TIL.md)|G.C.D 심화 - 2|
 |[22/4/28](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:28_TIL.md)|Protocol-Oriented Programming|
-|[22/4/29]()|텅텅텅|
+|[22/4/29](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:4:29_TIL.md)|Associated Types|
 |[22/5/2](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:2_TIL.md)|HTTP|
