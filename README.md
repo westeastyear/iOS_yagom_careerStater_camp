@@ -67,3 +67,4 @@
 |[22/5/2](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:2_TIL.md)|HTTP|
 |[22/5/3](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:3_TIL.md)|Extensions with a Generic Where Clause, “Self” vs “self”|
 |[22/5/5](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:5_TIL.md)|Using Responders and the Responder Chain to Handle Events|
+|[22/5/6](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:6_TIL.md)|UICollectionView|
