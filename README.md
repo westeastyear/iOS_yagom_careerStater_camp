@@ -9,7 +9,7 @@
 |5|[계산기 II](https://github.com/westeastyear/ios-calculator-app-team)|1주|[@Malrang](https://github.com/malrang-malrang)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/220)|[PR](https://github.com/yagom-academy/ios-calculator-app/pull/229)|-|-|[@도미닉](https://github.com/AppleCEO)|
 |6|[만국박람회](https://github.com/westeastyear/ios-exposition-universelle)|2주|[@Grumpy](https://github.com/grumpy-sw)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/139)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/151)|[PR](https://github.com/yagom-academy/ios-exposition-universelle/pull/163)|-|[@Steven](https://github.com/stevenkim18)|
 |7|[은행 창구 매니저](https://github.com/westeastyear/ios-bank-manager)|2주|[@Safari](https://github.com/saafaaari)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/148)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/157)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/165)|[PR](https://github.com/yagom-academy/ios-bank-manager/pull/176)|[@린생](https://github.com/jungseungyeo)|
-|8|[오픈 마켓](https://github.com/westeastyear/ios-open-market)|2주|[@우롱차](https://github.com/dnwhd0112)|[PR예정]()|[PR예정]()|[PR예정]()|[PR예정]()|[@또치](https://github.com/TTOzzi)|
+|8|[오픈 마켓](https://github.com/westeastyear/ios-open-market)|2주|[@우롱차](https://github.com/dnwhd0112)|[PR](https://github.com/yagom-academy/ios-open-market/pull/140)|[PR예정]()|[PR예정]()|[PR예정]()|[@또치](https://github.com/TTOzzi)|
 ---
 
 ## 🧑🏻‍🏫 리뷰어 활동 for 6th
@@ -70,3 +70,4 @@
 |[22/5/5](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:5_TIL.md)|Using Responders and the Responder Chain to Handle Events|
 |[22/5/6](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:6_TIL.md)|UICollectionView|
 |[22/5/9](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:9_TIL.md)|UICollectionView - 2|
+|[22/5/10](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:10_TIL.md)|URLSession|
