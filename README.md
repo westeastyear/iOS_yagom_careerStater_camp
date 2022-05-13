@@ -71,3 +71,4 @@
 |[22/5/6](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:6_TIL.md)|UICollectionView|
 |[22/5/9](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:9_TIL.md)|UICollectionView - 2|
 |[22/5/10](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:10_TIL.md)|URLSession|
+|[22/5/12](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:12_TIL.md)|Fetching Website Data into Memory|
