@@ -79,4 +79,6 @@
 |[22/5/23](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:23_TIL.md)|Understanding Swift Performance - Allocation|
 |[22/5/24](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:24_TIL.md)|String을 reference type으로 표현하는 이유|
 |[22/7/27](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:7:27_TIL.md)|Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유는?|
+|[22/7/28](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:7:28_TIL.md)|View Controller의 View의 상태변화에 따른 메서드의 호출순서는?|
+|[22/7/29](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:7:29_TIL.md)|UIView의 layoutSubviews 메서드는 viewWillAppear보다 먼저 호출될까? 그렇게 생각한 이유는?|
 |[22/8/1](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:8:1_TIL.md)|스위프트 언어의 String에서 subscript를 통해 문자에 접근할 수 없는 이유|
