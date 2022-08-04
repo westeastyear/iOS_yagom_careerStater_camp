@@ -78,3 +78,4 @@
 |[22/5/19](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:19_TIL.md)|NSCache|
 |[22/5/23](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:23_TIL.md)|Understanding Swift Performance - Allocation|
 |[22/5/24](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:5:24_TIL.md)|String을 reference type으로 표현하는 이유|
+|[22/8/1](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:8:1_TIL.md)|스위프트 언어의 String에서 subscript를 통해 문자에 접근할 수 없는 이유|
