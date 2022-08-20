@@ -84,3 +84,4 @@
 |[22/8/1](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:8:1_TIL.md)|스위프트 언어의 String에서 subscript를 통해 문자에 접근할 수 없는 이유|
 |[22/8/16](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:8:16_TIL.md)|UIWindow 객체의 역할이란? (feat. window)|
 |[22/8/19](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:8:19_TIL.md)|Building Responsive and Efficient Apps with GCD|
+|[22/8/20](https://github.com/westeastyear/iOS_yagom_careerStater_camp/blob/main/TIL/22:8:20_TIL.md)|Copy On Write는 어떤 방식으로 동작하는지 설명하시오|
